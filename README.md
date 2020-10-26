@@ -559,4 +559,4 @@ lessons (see below) to review those skills.
 
 [Tutsplus -  RSpec Testing for Beginners](http://code.tutsplus.com/articles/rspec-testing-for-beginners-part-1--cms-26716)
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/intro-to-tdd-rspec-and-learn'>TDD, RSpec, and Learn </a> on Learn.co and start learning to code for free.</p>
+
